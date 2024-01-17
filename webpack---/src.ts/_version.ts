@@ -1,0 +1,1 @@
+No Content: webpack:///src.ts/_version.ts
